@@ -1,0 +1,6290 @@
+
+{
+  "B0011+47": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 47.77594444444444
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 38.067257259905745
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 30.41
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1240.699
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 3.57375
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B0031-07": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -7.364833333333333
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 23.444844408594964
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 10.92
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 942.951
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 8.536666666666665
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B0045+33": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 34.202222222222225
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 23.05428551626572
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 39.92
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1217.0939999999998
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 12.14125
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B0052+51": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 51.290166666666664
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 39.12579357103553
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 44.01
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2115.1710000000003
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 13.938749999999997
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B0053+47": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 47.936249999999994
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 35.814136809749705
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 18.14
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 472.037
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 14.10625
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B0148-06": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -6.584138888888889
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 20.355867004625882
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 25.66
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1464.6650000000002
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 27.844583333333333
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B0149-16": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -16.631555555555558
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 30.043594331103364
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 11.93
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 832.742
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 28.044999999999995
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B0153+39": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 39.82472222222223
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 28.21064537519241
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 59.83
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1811.561
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 29.229999999999997
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B0301+19": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 19.547611111111113
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 25.16653404649162
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 15.66
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1387.5839999999998
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 46.13791666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B0320+39": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 39.74788888888889
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 37.84891889039153
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 26.19
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3032.0719999999997
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 50.860833333333325
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B0331+45": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 45.9315
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 43.40173869511238
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 47.15
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 269.201
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 53.81916666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B2303+30": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 31.000333333333334
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 36.67050017560555
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 49.58
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1575.886
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 346.4929166666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B2303+46": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 47.12925
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 44.997064898085775
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 62.07
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1066.3709999999999
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 346.48249999999996
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B2310+42": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 42.886944444444445
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.38228822131718
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 17.28
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 349.434
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 348.28583333333324
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B2315+21": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 21.83
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 31.358816676152234
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 20.87
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1444.653
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 349.49083333333334
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "B2327-20": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -20.091555555555555
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 42.94264291406351
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 8.46
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1643.6219999999998
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 352.6116666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0006+1834": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 18.583055555555557
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 19.627625488898598
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 11.41
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 693.748
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 1.52
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0011+08": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 8.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 18.464167008102105
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 24.9
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0011+08"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2552.87
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 2.7499999999999996
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J0012+54": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 16:10"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 54.62861111111111
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 44.32231538566681
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 131.3
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3024.7999999999997
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 3.1041666666666665
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "CHIME"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://catalog.chime-frb.ca/galactic"
+    }
+  }, 
+  "J0013+29": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 16:10"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 29.821666666666665
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 23.747407467363157
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 36.2
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": -999.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 3.3166666666666664
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "CHIME"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://catalog.chime-frb.ca/galactic"
+    }
+  }, 
+  "J0021-09": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -9.15
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 26.74073391760542
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 25.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0021-0909"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2316.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 5.249999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "FAST"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://crafts.bao.ac.cn/pulsar/"
+    }
+  }, 
+  "J0021-0909": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -9.166305555555557
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 26.630554662564492
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 25.2
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2314.1310000000003
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 5.4641666666666655
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0023+0923": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 9.389944444444444
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 15.175713065227852
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 14.33
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3.0500000000000003
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 5.819999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0024-1931": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -19.516666666666666
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 35.30627924498802
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 21.3
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1306.07
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 6.0
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "MWA"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://wiki.mwatelescope.org/display/MP/SMART+survey+candidates"
+    }
+  }, 
+  "J0025-19": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -19.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 34.738389882864396
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 21.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "MWA:J0024-1931"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1306.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 6.249999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0030+0451": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 4.868872154115264
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 15.27050729289331
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 4.3
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0030+0451"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 4.87
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 7.59067782678382
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0034-0534": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -5.607278331494883
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 21.934409834738098
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 13.8
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0034-0534"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1.88
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 8.599455337802917
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0036-1033": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -10.55
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 25.989889043986448
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 23.4
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 899.98
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 8.999999999999998
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "MWA"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://wiki.mwatelescope.org/display/MP/SMART+survey+candidates"
+    }
+  }, 
+  "J0038-25": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -25.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 39.19989550900214
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 5.7
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0038-2501"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 257.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 9.499999999999998
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0038-2501": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -25.025194444444445
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 39.21211390612293
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 5.71
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 256.926
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 9.542499999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0039+35": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 35.75
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 25.263985021270813
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 53.04
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 536.6999999999999
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 9.775
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0050+03": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 3.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 12.707071023167432
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 26.5
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0050+03"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1366.56
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 12.499999999999998
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J0051+0423": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 4.380277777777778
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 11.431865011413683
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 13.9
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 354.73199999999997
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 12.875416666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0058+49": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 49.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 36.8086764480356
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 67.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0058+4950"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 996.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 14.499999999999998
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0058+4950": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 49.84055555555556
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 37.630609999850016
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 66.95
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 996.023
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 14.541249999999998
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0102+4839": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 48.62760918862822
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 36.30522336946234
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 53.5
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0102+4839"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.96
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 15.746795228897135
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0103+54": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 54.03333333333333
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.6451119408916
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 55.6
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 354.30400000000003
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 15.904166666666667
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0105+53": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 53.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 40.594129164747095
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 56.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 354.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 16.249999999999996
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0106+4855": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 48.93105555555555
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 36.52869643861437
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 70.87
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 83.157
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 16.604166666666664
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0107+13": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 13.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 4.105178729450466
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 21.6
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0107+1322"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1197.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 16.75
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J0107+1322": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 13.375472222222223
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 3.9985597796798973
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 21.67
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1197.383
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 16.916249999999998
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0108-1431": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -14.530583333333334
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 27.383963217477636
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 2.38
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 807.5649999999999
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 17.03458333333333
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0110+11": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 11.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 3.716979277353348
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 14.9
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 432.09
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 17.5
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J0110-22": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -22.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 34.743194013011376
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 20.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1262.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 17.5
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0120+18": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 18.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 5.495677936592307
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 14.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1313.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 19.999999999999996
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0121+14": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 14.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 1.570484217375516
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 17.8
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0122+1416"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1388.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 20.25
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J0121+5329": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 16:10"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 53.49
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 40.91369677186619
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 87.35
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2725.5
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 20.329166666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "CHIME"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://catalog.chime-frb.ca/galactic"
+    }
+  }, 
+  "J0122+1416": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 14.27138888888889
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 1.7436263668672622
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 17.69
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1388.9940000000001
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 20.505416666666665
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0125-23": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -23.45722222222222
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 36.03805475956918
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 10.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3.676
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 21.291666666666664
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0125-2327": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -23.6053504440222
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 36.186276773213734
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 9.6
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3.68
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 21.30235141551447
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0134-2937": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -29.62138888888889
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 42.277307166097955
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 21.81
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 136.962
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 23.577499999999997
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0137+1654": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 16.911694444444443
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 5.445158708463402
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 26.08
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 414.763
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 24.349166666666665
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0139+33": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 33.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 20.716249616215364
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 21.2
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0139+3336"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1248.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 24.749999999999996
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J0139+3336": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 33.61658333333334
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 21.359152782602436
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 21.23
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1247.961
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 24.98833333333333
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0139+5621": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 56.36022222222223
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 43.88854245443433
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 101.84
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1775.344
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 24.91041666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0140+56": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 56.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 43.53502281403988
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 101.6
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0139+5621"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1775.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 24.999999999999996
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J0146+31": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 31.066666666666666
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 19.201587422386808
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 25.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 938.1
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 26.562499999999996
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0152+0948": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 9.802777777777779
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 7.552941461899733
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 22.88
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2746.647
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 28.09875
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0154+18": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 18.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 9.085479965634999
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 19.8
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0154+1833"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.36
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 28.499999999999996
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J0154+1833": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 18.54529811182674
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 9.594712068877103
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 19.8
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0154+1833"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.36
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 28.74248257586797
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0156+04": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 4.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 11.710080707133942
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 27.5
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": -999.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 28.999999999999996
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J0158+21": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 21.133333333333333
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 11.918858498359022
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 20.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 505.29999999999995
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 29.62083333333333
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0203-0150": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -1.8333333333333335
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 17.39659609627888
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 19.2
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "GalacticMSPs:J0203-0150"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 5.173007812
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 30.749999999999993
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "FAST"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://crafts.bao.ac.cn/pulsar/"
+    }
+  }, 
+  "J0209+2621": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 26.35
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 17.395472286754853
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 23.5
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1934.84
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 32.24999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "FAST"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://crafts.bao.ac.cn/pulsar/"
+    }
+  }, 
+  "J0209+43": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 43.53333333333333
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 32.45296412777096
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 57.7
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 863.962
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 32.24999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "FAST"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://crafts.bao.ac.cn/pulsar/"
+    }
+  }, 
+  "J0211+42": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 42.55
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 31.673583417003602
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 49.7
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 350.68
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 32.74999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "FAST"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://crafts.bao.ac.cn/pulsar/"
+    }
+  }, 
+  "J0212+5222": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 52.38041666666667
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.006134184177114
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 38.21
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 376.386
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 33.217083333333335
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0213+52": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 52.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 40.65186904221779
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 38.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0212+5222"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 376.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 33.25
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0214+5222": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 52.41002757468171
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.127656470219655
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 22.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0214+5222"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 24.58
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 33.6928838372286
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0215+51": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 51.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 39.80978192089371
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 18.4
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 384.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 33.74999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J0216+52": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 52.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 40.8035703569711
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 22.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0214+5222"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 24.5
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 33.99999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0218+4232": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 42.56600126391994
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 32.21972018680874
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 61.2
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0218+4232"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.32
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 34.52921826498844
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0220+36": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 36.36666666666667
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 27.026612659858788
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 40.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1029.7
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 35.20833333333333
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0225+17": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 17.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 15.44410115216019
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 20.4
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 390.31
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 36.24999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J0227+33": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 16:10"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 33.928888888888885
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 25.76260955009116
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 27.56
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1240.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 36.78333333333333
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "CHIME"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://catalog.chime-frb.ca/galactic"
+    }
+  }, 
+  "J0229+20": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 20.966666666666665
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 17.719101251929892
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 27.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 806.9
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 37.262499999999996
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0241+16": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 16.066666666666666
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 19.208029389308514
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 16.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1545.4
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 40.44166666666667
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0244+14": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 14.45
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 19.795482985657024
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 31.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2128.1
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 41.2125
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0248+4230": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 42.51577614107235
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 35.140124142839056
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 48.2
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.6
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 42.16943069927009
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0251+26": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 26.083333333333332
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 24.576989842406928
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 20.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.54
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 42.78333333333333
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0251+2606": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 26.167700442524097
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 24.65118918277365
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 20.2
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0251+26"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.54
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 42.82546813820961
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0301+20": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 20.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 24.4550069378215
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 19.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1207.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 45.24999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "RRATalog"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/rratalog"
+    }
+  }, 
+  "J0301+35": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 35.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 31.405200965780423
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 57.4
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 568.32
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 45.24999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J0302+2252": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 22.87002777777778
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 25.621863195888388
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 18.99
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1207.165
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 45.63291666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0305+11": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 11.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 24.819348692074787
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 27.8
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0305+11"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 862.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 46.25
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J0312-0921": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -9.37256149581177
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 34.711007464483544
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 20.5
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3.7
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 48.00392133107763
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0317+13": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 13.483333333333333
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 27.801988885673627
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 12.9
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1974.3
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 49.474999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0318+0253": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 2.8639519938660354
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 29.96888469460214
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 26.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 5.19
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 49.589335157190646
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0327+09": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 9.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 30.46014852568115
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 93.7
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": -999.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 51.75
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J0329+1654": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 16.900555555555552
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 30.589152246585783
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 40.82
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 893.32
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 52.28541666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0336+17": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 17.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 32.23225487617552
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 21.3
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0337+1715"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.73
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 53.99999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBT350"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBTdrift350/"
+    }
+  }, 
+  "J0337+1715": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 17.25411111111111
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 32.66006114136555
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 21.32
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.733
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 54.4325
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0340+4130": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 41.51995555822599
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.51367155083034
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 49.6
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0340+4130"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3.3
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 55.13210994703898
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0342+27": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 27.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 35.411474136464754
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 58.9
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 952.83
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 55.49999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J0343+04": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 4.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 35.45641763256237
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 40.5
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 39.1
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 55.74999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBT350"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBTdrift350/"
+    }
+  }, 
+  "J0343+06": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 6.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 34.9460060428289
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 46.3
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1007.64
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 55.74999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J0344-0901": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -9.01738888888889
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.11766995836228
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 30.9
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1226.0059999999999
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 56.15583333333333
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0348+0432": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 4.5365
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 36.68757223487918
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 40.46
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 39.123
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 57.18166666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0349+23": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 23.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 35.998349865235724
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 63.1
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0349+2340"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2421.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 57.24999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J0349+2340": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 23.68138888888889
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 36.341954574217624
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 62.96
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2420.7709999999997
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 57.48874999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0354+08": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 8.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 37.20831288872582
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 66.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 998.88
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 58.49999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J0355+28": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 28.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 38.459414606720394
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 49.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 365.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 58.74999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0357+3205": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 32.09027777777778
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 40.31137725614031
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": -999.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 444.104
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 59.46875
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0357-05": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -5.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.93435358536884
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 56.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": -999.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 59.24999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0358+4155": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 41.92194444444444
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 44.500923046212584
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 46.33
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 226.48399999999998
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 59.51291666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0358+42": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 42.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 44.53136079645214
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 46.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J0358+4155"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 226.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 59.49999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0405+33": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 33.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 42.03170820394776
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 54.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 64.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 61.249999999999986
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0406+30": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 30.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.32131711768848
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 49.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "GalacticMSPs:J0406+3039"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.6
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 61.499999999999986
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0406+3039": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 30.701294121731348
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.566284992641876
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 49.3
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.61
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 61.557140422628535
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J0407+1607": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 16.121222222222222
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 39.855923929115875
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 35.65
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 25.701999999999998
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 61.978749999999984
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J0414+31": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 31.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 43.25153322287217
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 64.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1081.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 63.49999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J0418+22": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 22.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 42.4966805458723
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 5.6
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 45.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 64.49999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J0421+32": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 32.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 44.9554022768369
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 76.9
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 900.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 65.24999999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J2036-02": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -2.139118829891658
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 23.234720766936377
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 52.2
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1.91
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 39.04269559787906
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J2227+30": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 30.6
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 44.395312777571384
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 19.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 842.408
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 336.87499999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2229+2643": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 26.732666666666663
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 43.07063516983566
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 22.73
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.978
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 337.4616666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2230-03": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -1.593955154716843
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 43.74186818336023
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 10.3
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 5.11
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 339.2451122321803
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J2234+06": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 6.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 42.34368077151544
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 10.8
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2234+0611"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3.58
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 338.49999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J2234+0611": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 6.191277777777778
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 42.21066606185027
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 10.76
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3.577
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 338.5958333333333
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2234+0944": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 9.780481025362274
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.50703425540042
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 17.8
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2234+0944"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3.63
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 338.6811298997902
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J2234+2114": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 21.238555555555557
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.16724866402871
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 35.08
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1358.7450000000001
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 338.7358333333333
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2235+1506": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 15.11361111111111
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 40.80449791939181
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 18.09
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 59.767
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 338.93208333333325
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2237+28": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 16:10"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 28.615000000000002
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.81549982306025
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 38.1
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": -999.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 339.3666666666667
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "CHIME"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://catalog.chime-frb.ca/galactic"
+    }
+  }, 
+  "J2243+1518": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 15.306972222222223
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 39.00675509149854
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 42.13
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 596.799
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 340.7904166666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2248-0101": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -1.03
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 40.85940908292841
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 29.05
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 477.233
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 342.1116666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2251+24": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 24.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 37.87183639481405
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 34.6
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1797.62
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 342.75
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J2252+24": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 24.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 37.64741409163643
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 34.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "AO327:J2251+24"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1798.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 342.99999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J2253+1516": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 15.277166666666668
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 36.57676547779131
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 29.2
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 792.2360000000001
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 343.31041666666664
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2256-10": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -10.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 43.07710701836812
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 13.78
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2256-1024"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.29
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 343.99999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBT350"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBTdrift350/"
+    }
+  }, 
+  "J2256-1023": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -10.3958347886517
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 43.2777323668465
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 13.8
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2256-1024"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.29
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 344.0038790584898
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J2256-1024": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -10.409527777777779
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 43.09090545460796
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 13.78
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.2950000000000004
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 344.2345833333333
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2301+20": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 20.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 34.97562363316207
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 32.4
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "GalacticMSPs:J2301+20"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 5.94
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 345.24999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J2302+4442": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 44.71222700861424
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 43.96868935632365
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 13.8
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2302+4442"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 5.19
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 345.69893835904526
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J2305+31": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 31.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 36.86300130848142
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 46.1
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2306+31"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 341.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 346.24999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J2306+31": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 31.383333333333333
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 36.77321570688026
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 46.13
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 341.6
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 346.55
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2307+2225": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 22.430583333333335
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 33.81067797763421
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 7.02
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 535.829
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 346.9216666666666
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2307-05": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -5.966666666666667
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 38.708818137045036
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 92.8
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 557.75
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 346.74999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "FAST"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://crafts.bao.ac.cn/pulsar/"
+    }
+  }, 
+  "J2310-0555": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -5.926638888888889
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 38.01363887346646
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 15.51
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.613
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 347.52666666666664
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2312-09": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -9.133333333333333
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 39.270762904059076
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 40.7
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 920.22
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 347.99999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "FAST"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://crafts.bao.ac.cn/pulsar/"
+    }
+  }, 
+  "J2317+1439": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 14.658666666666667
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 30.80524559570706
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 21.88
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3.4450000000000003
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 349.28833333333336
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2319+20": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 20.791718315782482
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 30.952391999997936
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 22.1
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3.4
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 349.7157947562785
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J2322+2057": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 20.954926389339597
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 30.19233179433395
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 13.4
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2322+2057"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 4.81
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 350.57719949000904
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J2323+1214": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 12.133333333333333
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 29.47548142978602
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 22.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3760.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 350.74999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "FAST"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://crafts.bao.ac.cn/pulsar/"
+    }
+  }, 
+  "J2323+1241": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 12.23686111111111
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 29.38041054965674
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 29.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3759.491
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 350.84
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2325-0530": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -5.5
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 34.602783179568526
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 14.97
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2325-0530"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 869.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 351.25
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "RRATalog"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/rratalog"
+    }
+  }, 
+  "J2329+16": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 16.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 27.986702513670654
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 30.8
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2329+16"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 632.07
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 352.25
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J2329+47": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 47.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.99503346691907
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 43.9
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2329+4743"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 728.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 352.25
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J2329+4743": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 47.727694444444445
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 42.45591015925432
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 44.01
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 728.409
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 352.38124999999997
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2334+20": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 20.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 27.31972629959402
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 13.2
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": -999.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 353.49999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J2336-01": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -1.85
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 30.257312417317152
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 19.6
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1029.8
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 354.15
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2337+48": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 48.4
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 42.00514781255541
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 34.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 119.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 354.49999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "FAST"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://crafts.bao.ac.cn/pulsar/"
+    }
+  }, 
+  "J2339-0533": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -5.584085807004901
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 31.60948048139485
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 8.72
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2339-0533"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 2.88
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 354.9073630795012
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J2340+08": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 8.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 25.91356953768573
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 23.99
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2340+08"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 303.3
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 355.0
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J2346-0609": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -6.166611111111111
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 30.515856013850843
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 22.5
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1181.463
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 356.7099999999999
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2347+02": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 2.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 26.185352048989778
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 15.9
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1383.47
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 356.75
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J2350+31": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 31.65
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 28.649074637766233
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 39.14
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 508.1
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 357.67499999999995
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2353-22": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -22.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.12107649168486
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 9.9
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2354-22"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 558.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 358.24999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J2354+04": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 4.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 23.779458790930555
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 13.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 956.35
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 358.49999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "J2354+40": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 40.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 33.7934831860982
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 20.5
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 387.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 358.49999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "LOTAAS"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://old.astron.nl/lotaas/index.php?sort=1"
+    }
+  }, 
+  "J2354-22": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -22.864722222222223
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 41.6472271706434
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 9.9
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 557.9960000000001
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 358.60833333333323
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2355+00": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": -0.019058878465197476
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 25.333456296432384
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 11.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 3.7
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 358.7778289632218
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GalacticMSPs"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GalacticMSPs/GalacticMSPs.txt"
+    }
+  }, 
+  "J2355+15": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 16:10"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 15.5
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 21.663281401731965
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 26.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1096.4
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 358.8
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "CHIME"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://catalog.chime-frb.ca/galactic"
+    }
+  }, 
+  "J2355+2246": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 22.77138888888889
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 23.247519125250484
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 23.1
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1840.986
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 358.9575
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "ATNF"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "https://www.atnf.csiro.au/research/pulsar/psrcat/proc_form.php?version=1.64&Name=Name&RaJ=RaJ&DecJ=DecJ&P0=P0&DM=DM&startUserDefined=true&c1_val=&c2_val=&c3_val=&c4_val=&sort_attr=jname&sort_order=asc&condition=&pulsar_names=&ephemeris=short&coords_unit=raj%2Fdecj&radius=&coords_1=&coords_2=&style=Short+without+errors&no_value=*&fsize=3&x_axis=&x_scale=linear&y_axis=&y_scale=linear&state=query&table_bottom.x=51&table_bottom.y=23"
+    }
+  }, 
+  "J2356+22": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 22.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 22.92895468399867
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 23.0
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": "ATNF:J2355+2246"
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": 1841.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 358.99999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "GBNCC"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://astro.phys.wvu.edu/GBNCC/"
+    }
+  }, 
+  "J2357+24": {
+    "date": {
+      "display_name": "Retrieval Date", 
+      "value": "2022-01-31 00:00"
+    }, 
+    "dec": {
+      "display_name": "Dec (deg)", 
+      "value": 24.0
+    }, 
+    "distance": {
+      "display_name": "Distance (deg)", 
+      "value": 23.496481648734253
+    }, 
+    "dm": {
+      "display_name": "DM (pc/cc)", 
+      "value": 8.6
+    }, 
+    "duplicate": {
+      "display_name": "Duplicate?", 
+      "value": null
+    }, 
+    "period": {
+      "display_name": "Spin Period (ms)", 
+      "value": -999.0
+    }, 
+    "ra": {
+      "display_name": "RA (deg)", 
+      "value": 359.24999999999994
+    }, 
+    "survey": {
+      "display_name": "Survey", 
+      "value": "AO327"
+    }, 
+    "url": {
+      "display_name": "Survey URL", 
+      "value": "http://www.naic.edu/~deneva/drift-search/index.html"
+    }
+  }, 
+  "nmatches": 207, 
+  "searchcoord": {
+    "display_name": "Search Coord", 
+    "value": "01:23:45 +12:34:45"
+  }, 
+  "searchdec": {
+    "display_name": "Search Dec (deg)", 
+    "value": 12.579166666666666
+  }, 
+  "searchra": {
+    "display_name": "Search RA (deg)", 
+    "value": 20.937499999999996
+  }, 
+  "searchrad": {
+    "display_name": "Search Radius (deg)", 
+    "value": 45.0
+  }
+}
